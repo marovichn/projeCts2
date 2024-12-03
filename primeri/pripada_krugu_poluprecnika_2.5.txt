@@ -1,0 +1,3 @@
+Krug poluprecnika 2.50 sa centrom u tacki (3.40, 2.00):
+(2.00, 2.00)
+(3.00, 1.00)
